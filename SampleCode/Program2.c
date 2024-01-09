@@ -1,8 +1,13 @@
 #include<stdio.h>
 
-int main()
+void Display()
 {
     printf("Jay Ganesh...\n");
+}
 
+int main()
+{
+    Display();
+    
     return 0;
 }
